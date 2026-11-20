@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aahad AI Studio</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#090d1c;color:white;font-family:Arial,sans-serif}
+header{padding:22px 18px;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #252b43}
+.logo{font-size:22px;font-weight:bold;color:#a78bfa}
+.hero{text-align:center;padding:65px 18px 45px}
+.hero h1{font-size:38px;margin:10px 0}
+.hero h1 span{color:#a78bfa}
+.hero p{color:#b8bfd3;line-height:1.7}
+.btn{display:inline-block;background:#7955ed;color:white;padding:13px 22px;border-radius:12px;text-decoration:none;font-weight:bold;margin-top:15px}
+h2{text-align:center;margin:30px 0}
+.tools{padding:15px;display:grid;grid-template-columns:repeat(2,1fr);gap:14px;max-width:850px;margin:auto}
+.card{background:#151c32;border:1px solid #303957;padding:19px 12px;border-radius:16px;text-align:center}
+.card .emoji{font-size:32px}
+.card h3{font-size:16px;margin:12px 0 7px}
+.card p{font-size:12px;color:#b8bfd3;line-height:1.5}
+.tag{font-size:10px;color:#c4b5fd;background:#30245b;padding:5px 9px;border-radius:20px}
+footer{text-align:center;color:#929bb4;padding:35px 15px;font-size:13px}
+</style>
+</head>
+<body>
+<header>
+<div class="logo">✦ AAHAD AI</div>
+<div>☰</div>
+</header>
+
+<section class="hero">
+<p>WELCOME TO THE FUTURE</p>
+<h1>Welcome to <span>Aahad AI Studio</span></h1>
+<p>All your AI creative tools in one place.<br>
+Create. Imagine. Explore. Build.</p>
+<a class="btn" href="#tools">Explore AI Tools →</a>
+</section>
+
+<h2>🚀 Explore AI Tools</h2>
+<section class="tools" id="tools">
+
+<div class="card">
+<div class="emoji">💬</div>
+<h3>AI Chat</h3>
+<p>Your smart AI assistant</p>
+<span class="tag">Coming Soon</span>
+</div>
+
+<div class="card">
+<div class="emoji">🎨</div>
+<h3>AI Image Maker</h3>
+<p>Create images from text</p>
+<span class="tag">Coming Soon</span>
+</div>
+
+<div class="card">
+<div class="emoji">🎬</div>
+<h3>AI Video Maker</h3>
+<p>Turn your ideas into videos</p>
+<span class="tag">Coming Soon</span>
+</div>
+
+<div class="card">
+<div class="emoji">🐼</div>
+<h3>AI Cartoon Maker</h3>
+<p>Create amazing cartoon stories</p>
+<span class="tag">Coming Soon</span>
+</div>
+
+<div class="card">
+<div class="emoji">🎙️</div>
+<h3>AI Voice Maker</h3>
+<p>AI voice and dubbing</p>
+<span class="tag">Coming Soon</span>
+</div>
+
+<div class="card">
+<div class="emoji">✂️</div>
+<h3>AI Video Clipper</h3>
+<p>Make short video clips</p>
+<span class="tag">Coming Soon</span>
+</div>
+
+<div class="card">
+<div class="emoji">🖼️</div>
+<h3>AI Thumbnail Maker</h3>
+<p>Create YouTube thumbnails</p>
+<span class="tag">Coming Soon</span>
+</div>
+
+<div class="card">
+<div class="emoji">✍️</div>
+<h3>AI Script Writer</h3>
+<p>Write stories and scripts</p>
+<span class="tag">Coming Soon</span>
+</div>
+
+<div class="card">
+<div class="emoji">🌍</div>
+<h3>AI Translator</h3>
+<p>Translate different languages</p>
+<span class="tag">Coming Soon</span>
+</div>
+
+<div class="card">
+<div class="emoji">✨</div>
+<h3>AI Background Remover</h3>
+<p>Remove photo backgrounds</p>
+<span class="tag">Coming Soon</span>
+</div>
+
+</section>
+
+<footer>
+<h3>✦ AAHAD AI STUDIO</h3>
+<p>Made with creativity and ambition.</p>
+<p>© 2026 Aahad AI Studio</p>
+</footer>
+</body>
+</html>
